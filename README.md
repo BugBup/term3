@@ -4,3 +4,4 @@ Shulha Ivan
 привет
 o9uehfo;heghhfh
 changers after fork
+После изменений от Владика
